@@ -1,0 +1,19 @@
+{
+    "userdata": [
+        {
+            "username": "iqbal",
+            "email": "iqbal@gmail.com",
+            "phone": "081234564567"
+        },
+        {
+            "username": "dedi",
+            "email": "dedi@gmail.com",
+            "phone": "081234564568"
+        },
+        {
+            "username": "hekal",
+            "email": "hekal@gmail.com",
+            "phone": "081234564569"
+        }
+    ]
+}
